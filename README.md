@@ -1,3 +1,5 @@
+Source Code is under the src folder
+
 How to Use
 In Visual Studio Code, simply press the run button.
 
